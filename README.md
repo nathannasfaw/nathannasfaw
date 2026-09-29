@@ -1,4 +1,4 @@
-## Hi, I'm Nathan 👋
+# Hey, I'm Nathan 👋
 
 CS @ the University of Georgia ('27) · FinTech Certificate · I build AI agents and data tools, mostly where software meets money.
 
@@ -11,37 +11,22 @@ CS @ the University of Georgia ('27) · FinTech Certificate · I build AI agents
 
 | Project | What it does | Stack |
 |---|---|---|
+| [autonomous-pantry](https://github.com/nathannasfaw/autonomous-pantry) | Pantry-aware cooking assistant: scans your pantry with the camera, generates recipes from what you have, and builds a shopping cart for what's missing | React, FastAPI, YOLO, Claude, PyTorch, SQLite |
+| [genai-mlt-partner-bot](https://github.com/nathannasfaw/genai-mlt-partner-bot) | Serverless Q&A system that answers natural-language questions from SEC 10-K/10-Q filings pulled live from EDGAR | Python, AWS Lambda, S3, Bedrock (Claude) |
 | [running-plan-builder](https://github.com/nathannasfaw/running-plan-builder) | Generates personalized training plans from runner data using clustering + deep learning | Python, TensorFlow (LSTM), K-Means, Gemini API, Streamlit |
-| [strava-api-extension](https://github.com/nathannasfaw/strava-api-extension) | Pulls Strava stats and matches runners with similar paces and race goals | JavaScript, Strava API |
 | [predictive-prem](https://github.com/nathannasfaw/predictive-prem) | Predicts Premier League match outcomes | Python, Jupyter |
-| SEC Filings Analyst *(repo coming soon)* | GenAI system that answers questions over 10-K/10-Q filings | AWS Lambda, Bedrock, Claude |
 
 ### 🧰 Toolbox
 **Languages:** Python · JavaScript · Go · SQL  
-**AI/ML:** TensorFlow · RAG · AWS Bedrock · Claude & Gemini APIs · MCP  
-**Backend & Cloud:** FastAPI · Django · AWS (Lambda, EC2) · MySQL  
-**Frontend:** React · Streamlit
+**AI/ML:** PyTorch · TensorFlow · YOLO · RAG · AWS Bedrock · Claude & Gemini APIs · MCP  
+**Backend & Cloud:** FastAPI · Django · AWS (Lambda, S3, EC2) · SQLite · MySQL  
+**Frontend:** React · Vite · Tailwind · Streamlit
 
 ### 🏃 Off the keyboard
 - I lead **NEST Run Club**, which is why so many of my projects end up being about running
 - ⚽ Premier League + FIFA, 🏀 LeBron forever
 - 📓 Big on intentional journaling
-- 🎧 On repeat lately: *[add a few artists]*
+- 🎧 On repeat lately: Sade, Drake, Karol G, Burna Boy, Wizkid
 
 ### 📫 Let's connect
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
-
-<!--
-**nathannasfaw/nathannasfaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/nathannasfaw) · [Email](mailto:nathanrasfaw@gmail.com)
